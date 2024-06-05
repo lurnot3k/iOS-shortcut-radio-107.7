@@ -25,7 +25,7 @@ Le repo est composé de deux fichier primordiaux : un script en python (trouve l
 
 <img src="https://github.com/lurnot3k/iOS-shortcut-radio-107.7/assets/77621024/5cffe1a5-5711-4c58-9982-21c2d3702ced" alt="Raccourci" width="200"/>
 
-# Informations complémentaire
+# Informations complémentaires
 
 Le scrit est "mal écrit" en raison des limitations imposées par Apple Shortcuts, il reste néanmoins complètement fonctionnel mais certaines autoroutes ont dues être renommées dans le code pour que cela fonctionne
 

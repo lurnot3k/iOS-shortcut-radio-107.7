@@ -31,7 +31,7 @@ Le scrit est "mal écrit" en raison des limitations imposées par Apple Shortcut
 
 **Sources**
 
-https://static.wikia.nocookie.net/routes/images/1/15/WS_15_Concessions.jpg/revision/latest?cb=20150318125445
-https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5Kw9jQfAzSeUvlbgT5hjGwAlOWhzB7s7uQG8xNlVwAklYH8SW0nyrQh0InXc2WGA0MhcIqD4W8vslvD-71pMA-PNdljWiAC1ct2ISkjBGlbfWzSVg44-9qXk13LVYV6sOIm5ZSF3Y4M/s1600/107.7+Carte+%253B+%2528002%2529.png (plus à jour mais utile pour SANEF)
-https://routes.fandom.com/wiki/Radio_Vinci_Autoroutes
-https://routes.fandom.com/wiki/Autoroute_Info?so=search
+- https://static.wikia.nocookie.net/routes/images/1/15/WS_15_Concessions.jpg/revision/latest?cb=20150318125445
+- https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5Kw9jQfAzSeUvlbgT5hjGwAlOWhzB7s7uQG8xNlVwAklYH8SW0nyrQh0InXc2WGA0MhcIqD4W8vslvD-71pMA-PNdljWiAC1ct2ISkjBGlbfWzSVg44-9qXk13LVYV6sOIm5ZSF3Y4M/s1600/107.7+Carte+%253B+%2528002%2529.png (plus à jour mais utile pour SANEF)
+- https://routes.fandom.com/wiki/Radio_Vinci_Autoroutes
+- https://routes.fandom.com/wiki/Autoroute_Info?so=search

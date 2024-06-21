@@ -1,10 +1,11 @@
 import requests
+import location
 import json
 import sys
 # Obtenir la position actuelle
-
-latitude = 49.59640748417282
-longitude = 2.2028768062591557
+loc = location.get_location()
+latitude = loc['latitude']
+longitude = loc['longitude']
  
 # Afficher les coordonnées pour vérification
 #print(f"Latitude: {latitude}, Longitude: {longitude}")
